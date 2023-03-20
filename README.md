@@ -1,2 +1,1 @@
-# file-encrypter
-A Simple Tool to Encrypt / Decrypt File(s) Based on a Key
+https://samratmaitra.hashnode.dev/building-a-basic-file-encryption-utility-in-python
